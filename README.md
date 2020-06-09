@@ -1,1 +1,0 @@
-# Tyre-Defect-Detection
